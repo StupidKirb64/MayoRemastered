@@ -6,7 +6,7 @@ ono, mayo has lost all of his mayo. u have to get mayo all of his terrible, horr
 
 # A remake of a project from half a year ago 
 
-Mayo: Remaster is a remaster of a crap game. and it is still a crap game. I'd still play it tho since its free game :D
+[Mayo: Remastered](https://stupidkirb64.itch.io/mayo-remastered/) is a remaster of a crap game. and it is still a crap game. I'd still play it tho since its free game :D
 
 # Controls
 
