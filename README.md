@@ -20,7 +20,7 @@ Space/A - jump
 
 G/D-Pad Down - do the macarena
 
-Escape/Start - pause
+Escape/Start - pause ((For WebGL)you can also use "P" to pause)
 
 # What's the purpose of ts?
 
