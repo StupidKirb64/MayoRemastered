@@ -27,3 +27,5 @@ Escape/Start - pause ((For WebGL)you can also use "P" to pause)
 This repository was made to store older versions of [Mayo: Remastered](https://stupidkirb64.itch.io/mayo-remastered/) cuz i don't wanna waste my storage on outdated versions of my own game. But maybe some feller wants to play verson 1.0 Mayo or sumthin
 
 ### ok bye bye
+
+*only version 1.0 was made in 8 days
